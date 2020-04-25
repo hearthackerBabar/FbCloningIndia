@@ -119,9 +119,9 @@ CorrectPassword = "hearthacker"
 
 loop = 'true'
 while (loop == 'true'):
-    username = raw_input("\033[1;92m📋 \x1b[1;91mTool Username \x1b[1;91m»» \x1b[1;92m")
+    username = raw_input("\033[1;92m📋 \x1b[1;96mTool Username \x1b[1;91m»» \x1b[1;92m")
     if (username == CorrectUsername):
-    	password = raw_input("\033[1;92m📋 \x1b[1;91mTool Password \x1b[1;91m»» \x1b[1;92m")
+    	password = raw_input("\033[1;92m📋 \x1b[1;96mTool Password \x1b[1;91m»» \x1b[1;92m")
         if (password == CorrectPassword):
             print "Logged in successfully as " + username #Dev:Babar_Ali
 	    time.sleep(2)
