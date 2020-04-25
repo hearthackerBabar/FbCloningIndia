@@ -95,11 +95,12 @@ os.system("clear")
 print  """
 
 \033[1;91m•◈•◈•◈•◈•◈•◈•◈•\033[1;97mWelcome To Fb Cloning\033[1;91m•◈•◈•◈•◈•◈•◈•◈•
-\033[1;92m◈✙◈◈✙◈◈✙◈◈✙◈◈✙◈◈✙◈◈✙◈\033[1;97mFb India\033[1;92m◈◈✙◈✙◈✙◈◈✙◈◈✙◈◈✙◈
-✙◈\033[1;95m  ╔══════════════════════✥❖✥════════════════════╗
+\033[1;92m◈✙◈◈✙◈◈✙◈◈✙◈◈✙◈◈✙◈◈✙◈\033[1;97mFb India\033[1;92m◈◈✙◈✙◈✙◈◈✙◈◈✙◈◈✙◈✙◈✙◈
+\033[1;95m╔══════════════════════✥❖✥════════════════════╗
 \033[1;97mAuthor Name: Babar Ali \033[1;97mFrom: Pakistan
-\033[1;97mWhatsapp Number: +923000223253        \033[1;97mYouTube Channel Name: Pak Amonymous
-\033[1;95m  ╚════════════════════════✥❖✥══════════════════╝
+\033[1;97mWhatsapp Number: +923000223253
+\033[1;97mYoutube Channel: Pak Anonymous
+\033[1;95m╚════════════════════════✥❖✥══════════════════╝
 
 \033[1;96m    ┊┊┊┊╱╲┊┊┊┊┊╱╲┊┊┊┊
 \033[1;96m    ┊┊┊┊▏▕┊┊┊┊┊▏▕┊┊┊┊
@@ -143,7 +144,7 @@ def login():
 		jalan(' \033[1;97mWarning: \033[1;93mDo Not Use Your Personal Account' )
 		jalan(' \033[1;97m   Note: \033[1;93mUse a New Account To Login' )
 		jalan(' \033[1;97mWarning: \033[1;93mYa command indian ids k liy ha' )                 
-		print "\033[1;92m✧ » ◇ « ✧ » ✦ « ✧ » ◇ « ✧\033[1;97mFb Cloning\033[1;92m✧ » ◇ « ✧ » ✦ « ✧"
+		print "\033[1;92m✧ » ◇ « ✧ » ✦ « ✧ » ◇ « ✧\033[1;97mFb Cloning\033[1;92m✧ » ◇ « ✧ » ✦ « "
 		print('	   \033[1;94m♡\x1b[1;96m↪↪↪↪↪↪LOGIN WITH FACEBOOK↩↩↩↩↩↩\x1b[1;94m♡' )
 		print('	' )
 		id = raw_input('\033[1;96m[+] \x1b[1;92mID/Email\x1b[1;95m: \x1b[1;93m')
